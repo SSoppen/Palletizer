@@ -1,7 +1,7 @@
-##Palletizer
+## Palletizer
 A copy of a project made for Applied Robotics, code was co-developed by me, and the project was agreed to be owned fully and independently by all partipicants
 
-##Beskrivelse
+## Beskrivelse
 Prosjektet inneholder en algoritme for palletizing av ekser med en robot, samt et enkelt gui for testing av algoritme.
 
 ## Avhengigheter
